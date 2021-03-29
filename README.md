@@ -1,4 +1,4 @@
-# ATMOS
+# Wind-Rose
 
 Python script to plot wind data from raw weather csv files.
 
